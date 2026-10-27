@@ -61,6 +61,7 @@
 ├── utils.py                    # Ghi Log, Validation Regex, SHA-256, Export
 ├── main.py                     # File chạy chính của ứng dụng
 ├── app.log                     # Nhật ký hoạt động hệ thống
+├── seed_sample.py              # Dữ Liệu Mẫu (data 6 tháng)
 └── README.md                   # Tài liệu hướng dẫn sử dụng
 
 ```
