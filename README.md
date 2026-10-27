@@ -128,6 +128,7 @@ Hệ thống có sẵn 2 tài khoản thử nghiệm để bạn kiểm tra các
 | **BS.CKI Nguyễn Thị Lan** | `bs006` | `12345` | Da Liễu |
 
 *(Bạn cũng có thể bấm vào nút **"TẠO TÀI KHOẢN"** ngay tại giao diện Đăng nhập để tạo thêm tài khoản mới).*
+* Lưu ý: tạo tài khoản mới cần Admin phê duyệt mới được đăng nhập vào hệ thống*
 
 ---
 
