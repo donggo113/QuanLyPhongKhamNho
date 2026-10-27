@@ -119,12 +119,12 @@ Hệ thống có sẵn 2 tài khoản thử nghiệm để bạn kiểm tra các
 | Quyền hạn | Tên đăng nhập | Mật khẩu | Tính năng chính |
 | --- | --- | --- | --- |
 | **Quản trị viên (Admin)** | `admin` | `admin123` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **PGS.TS Nguyễn Văn Bình** | `bs001` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **ThS.BS Trần Thị Mai** | `bs002` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **BS.CKII Lê Hoàng Nam** | `bs003` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **BS.CKI Phạm Thanh Hà** | `bs004` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **ThS.BS Đỗ Văn Khoa** | `bs005` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
-| **BS.CKI Nguyễn Thị Lan** | `bs006` | `12345` | Toàn quyền: Duyệt thanh toán, xóa hồ sơ, duyệt ca làm. |
+| **PGS.TS Nguyễn Văn Bình** | `bs001` | `12345` | Nội Tổng Quát |
+| **ThS.BS Trần Thị Mai** | `bs002` | `12345` |Tai Mũi Họng|
+| **BS.CKII Lê Hoàng Nam** | `bs003` | `12345` | Chẩn Đoán Hình Ảnh |
+| **BS.CKI Phạm Thanh Hà** | `bs004` | `12345` | Nhi Khoa |
+| **ThS.BS Đỗ Văn Khoa** | `bs005` | `12345` | Tim Mạch |
+| **BS.CKI Nguyễn Thị Lan** | `bs006` | `12345` | Da Liễu |
 
 *(Bạn cũng có thể bấm vào nút **"TẠO TÀI KHOẢN"** ngay tại giao diện Đăng nhập để tạo thêm tài khoản mới).*
 
