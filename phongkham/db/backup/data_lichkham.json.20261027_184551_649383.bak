@@ -1,0 +1,16 @@
+[
+    {
+        "MaBS": "BS001",
+        "BacSi": "PGS.TS Nguyễn Văn Bình",
+        "BenhNhan": "Nguyễn Văn An",
+        "NgayKham": "2026-10-27",
+        "GioKham": "09:00"
+    },
+    {
+        "MaBS": "BS002",
+        "BacSi": "ThS.BS Trần Thị Mai",
+        "BenhNhan": "Trần Thị Bích",
+        "NgayKham": "2026-10-27",
+        "GioKham": "10:00"
+    }
+]

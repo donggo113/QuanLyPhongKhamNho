@@ -1,0 +1,62 @@
+[
+    {
+        "ma_dv": "DV_API_01",
+        "ten_dich_vu": "Dịch vụ Y tế Sunt Aut Facere Repe",
+        "don_gia": 150000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_02",
+        "ten_dich_vu": "Dịch vụ Y tế Qui Est Esse",
+        "don_gia": 200000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_03",
+        "ten_dich_vu": "Dịch vụ Y tế Ea Molestias Quasi E",
+        "don_gia": 250000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_04",
+        "ten_dich_vu": "Dịch vụ Y tế Eum Et Est Occaecati",
+        "don_gia": 300000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_05",
+        "ten_dich_vu": "Dịch vụ Y tế Nesciunt Quas Odio",
+        "don_gia": 350000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_06",
+        "ten_dich_vu": "Dịch vụ Y tế Dolorem Eum Magni Eo",
+        "don_gia": 400000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_07",
+        "ten_dich_vu": "Dịch vụ Y tế Magnam Facilis Autem",
+        "don_gia": 450000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_08",
+        "ten_dich_vu": "Dịch vụ Y tế Dolorem Dolore Est I",
+        "don_gia": 500000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_09",
+        "ten_dich_vu": "Dịch vụ Y tế Nesciunt Iure Omnis ",
+        "don_gia": 550000,
+        "nguon": "API External Database"
+    },
+    {
+        "ma_dv": "DV_API_10",
+        "ten_dich_vu": "Dịch vụ Y tế Optio Molestias Id Q",
+        "don_gia": 600000,
+        "nguon": "API External Database"
+    }
+]
