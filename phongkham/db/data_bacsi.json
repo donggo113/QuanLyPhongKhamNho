@@ -1,0 +1,44 @@
+[
+    {
+        "MaBS": "BS001",
+        "HoTen": "PGS.TS Nguyễn Văn Bình",
+        "ChuyenKhoa": "Nội Tổng Quát",
+        "SoDienThoai": "0901234567",
+        "Email": "binh.nguyen@phongkham.vn"
+    },
+    {
+        "MaBS": "BS002",
+        "HoTen": "ThS.BS Trần Thị Mai",
+        "ChuyenKhoa": "Tai Mũi Họng",
+        "SoDienThoai": "0902345678",
+        "Email": "mai.tran@phongkham.vn"
+    },
+    {
+        "MaBS": "BS003",
+        "HoTen": "BS.CKII Lê Hoàng Nam",
+        "ChuyenKhoa": "Chẩn Đoán Hình Ảnh",
+        "SoDienThoai": "0903456789",
+        "Email": "nam.le@phongkham.vn"
+    },
+    {
+        "MaBS": "BS004",
+        "HoTen": "BS.CKI Phạm Thanh Hà",
+        "ChuyenKhoa": "Nhi Khoa",
+        "SoDienThoai": "0904567890",
+        "Email": "ha.pham@phongkham.vn"
+    },
+    {
+        "MaBS": "BS005",
+        "HoTen": "ThS.BS Đỗ Văn Khoa",
+        "ChuyenKhoa": "Tim Mạch",
+        "SoDienThoai": "0905678901",
+        "Email": "khoa.do@phongkham.vn"
+    },
+    {
+        "MaBS": "BS006",
+        "HoTen": "BS.CKI Nguyễn Thị Lan",
+        "ChuyenKhoa": "Da Liễu",
+        "SoDienThoai": "0906789012",
+        "Email": "lan.nguyen@phongkham.vn"
+    }
+]

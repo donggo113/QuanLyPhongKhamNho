@@ -1,0 +1,142 @@
+[
+    {
+        "MaBN": "BN001",
+        "HoTen": "Nguyễn Văn An",
+        "SoDienThoai": "0912345678",
+        "GioiTinh": "Nam",
+        "DiaChi": "123 Đường Lê Lợi, Quận 1, TP.HCM"
+    },
+    {
+        "MaBN": "BN002",
+        "HoTen": "Trần Thị Bích",
+        "SoDienThoai": "0987654321",
+        "GioiTinh": "Nữ",
+        "DiaChi": "45 Đường Nguyễn Huệ, Quận 3, TP.HCM"
+    },
+    {
+        "MaBN": "BN003",
+        "HoTen": "Lê Hoàng Cường",
+        "SoDienThoai": "0903112233",
+        "GioiTinh": "Nam",
+        "DiaChi": "78 Đường Trần Hưng Đạo, Quận 5, TP.HCM"
+    },
+    {
+        "MaBN": "BN004",
+        "HoTen": "Phạm Minh Dung",
+        "SoDienThoai": "0934556677",
+        "GioiTinh": "Nữ",
+        "DiaChi": "12 Đường Võ Văn Tần, Quận 10, TP.HCM"
+    },
+    {
+        "MaBN": "BN005",
+        "HoTen": "Vũ Anh Tuấn",
+        "SoDienThoai": "0978990011",
+        "GioiTinh": "Nam",
+        "DiaChi": "99 Đường Quang Trung, Q. Gò Vấp, TP.HCM"
+    },
+    {
+        "MaBN": "BN006",
+        "HoTen": "Đỗ Hoàng Em",
+        "SoDienThoai": "0918223344",
+        "GioiTinh": "Nam",
+        "DiaChi": "234 Đường Lý Thường Kiệt, Q.11, TP.HCM"
+    },
+    {
+        "MaBN": "BN007",
+        "HoTen": "Hoàng Thị Phương",
+        "SoDienThoai": "0945667788",
+        "GioiTinh": "Nữ",
+        "DiaChi": "56 Đường Điện Biên Phủ, Q. Bình Thạnh, TP.HCM"
+    },
+    {
+        "MaBN": "BN008",
+        "HoTen": "Bùi Văn Giang",
+        "SoDienThoai": "0967889900",
+        "GioiTinh": "Nam",
+        "DiaChi": "88 Đường Phan Xích Long, Q. Phú Nhuận, TP.HCM"
+    },
+    {
+        "MaBN": "BN009",
+        "HoTen": "Đặng Thu Hương",
+        "SoDienThoai": "0908112244",
+        "GioiTinh": "Nữ",
+        "DiaChi": "101 Đường Hoàng Văn Thụ, Q. Tân Bình, TP.HCM"
+    },
+    {
+        "MaBN": "BN0010",
+        "HoTen": "Ngô Quốc Khánh",
+        "SoDienThoai": "0939223355",
+        "GioiTinh": "Nam",
+        "DiaChi": "15 Đường Phạm Văn Đồng, Q. Thủ Đức, TP.HCM"
+    },
+    {
+        "MaBN": "BN011",
+        "HoTen": "Dương Khánh Linh",
+        "SoDienThoai": "0971334466",
+        "GioiTinh": "Nữ",
+        "DiaChi": "67 Đường Nguyễn Thị Minh Khai, Q.3, TP.HCM"
+    },
+    {
+        "MaBN": "BN012",
+        "HoTen": "Lý Văn Minh",
+        "SoDienThoai": "0982445577",
+        "GioiTinh": "Nam",
+        "DiaChi": "34 Đường Nam Kỳ Khởi Nghĩa, Q.1, TP.HCM"
+    },
+    {
+        "MaBN": "BN013",
+        "HoTen": "Nguyễn Thanh Nga",
+        "SoDienThoai": "0905556688",
+        "GioiTinh": "Nữ",
+        "DiaChi": "89 Đường Cộng Hòa, Q. Tân Bình, TP.HCM"
+    },
+    {
+        "MaBN": "BN014",
+        "HoTen": "Trịnh Hoài Nam",
+        "SoDienThoai": "0926667799",
+        "GioiTinh": "Nam",
+        "DiaChi": "142 Đường Hai Bà Trưng, Q.1, TP.HCM"
+    },
+    {
+        "MaBN": "BN015",
+        "HoTen": "Mai Thị Kim Oanh",
+        "SoDienThoai": "0947778800",
+        "GioiTinh": "Nữ",
+        "DiaChi": "55 Đường Ba Tháng Hai, Q.10, TP.HCM"
+    },
+    {
+        "MaBN": "BN016",
+        "HoTen": "Phan Văn Phong",
+        "SoDienThoai": "0968889911",
+        "GioiTinh": "Nam",
+        "DiaChi": "77 Đường Lê Văn Sỹ, Q.3, TP.HCM"
+    },
+    {
+        "MaBN": "BN017",
+        "HoTen": "Võ Thị Như Quỳnh",
+        "SoDienThoai": "0919990022",
+        "GioiTinh": "Nữ",
+        "DiaChi": "205 Đường Nguyễn Trãi, Q.5, TP.HCM"
+    },
+    {
+        "MaBN": "BN018",
+        "HoTen": "Cao Văn Sơn",
+        "SoDienThoai": "0931001133",
+        "GioiTinh": "Nam",
+        "DiaChi": "31 Đường Trường Chinh, Q.12, TP.HCM"
+    },
+    {
+        "MaBN": "BN019",
+        "HoTen": "Đinh Ngọc Tâm",
+        "SoDienThoai": "0972112244",
+        "GioiTinh": "Nữ",
+        "DiaChi": "90 Đường Xô Viết Nghệ Tĩnh, Q. Bình Thạnh, TP.HCM"
+    },
+    {
+        "MaBN": "BN020",
+        "HoTen": "Trần Đức Uy",
+        "SoDienThoai": "0983223355",
+        "GioiTinh": "Nam",
+        "DiaChi": "118 Đường Cao Thắng, Q.3, TP.HCM"
+    }
+]
