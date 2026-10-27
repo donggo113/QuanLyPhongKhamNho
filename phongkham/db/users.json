@@ -1,0 +1,91 @@
+{
+    "admin": {
+        "password_hash": "db9c61906fc1fc58309e1ad4c6057c97$ede171971154691be59ff822985788392a069017568e7fd9ac5b19cba3557690",
+        "role": "admin",
+        "status": "approved",
+        "ho_ten": "Quản trị viên",
+        "ngay_tao": "2026-10-27 18:43"
+    },
+    "bs001": {
+        "password_hash": "1a5a482a85d11fdfcb5b3ad13d95c6c0$32455f8db47de49a95b63b76003f8b6058c2d006958fe38ff2cfa17281f724ce",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "PGS.TS Nguyễn Văn Bình",
+        "sdt": "0901234567",
+        "email": "binh.nguyen@phongkham.vn",
+        "ma_bs": "BS001",
+        "chuyen_khoa": "Nội Tổng Quát",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "bs002": {
+        "password_hash": "ea35c8354b0e45bb2e9a65dee13ec997$e0dde7c75658e02575ce90657d4a3540cb91a0b66d3a9324f55fa91b68d0e5e4",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "ThS.BS Trần Thị Mai",
+        "sdt": "0902345678",
+        "email": "mai.tran@phongkham.vn",
+        "ma_bs": "BS002",
+        "chuyen_khoa": "Tai Mũi Họng",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "bs003": {
+        "password_hash": "29a2d6b66b111993f70002b5b7007fae$1a5bc92df571a370c8a62fed496f91e4a34e15a427a91ca4ee5f6538b525ae0a",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "BS.CKII Lê Hoàng Nam",
+        "sdt": "0903456789",
+        "email": "nam.le@phongkham.vn",
+        "ma_bs": "BS003",
+        "chuyen_khoa": "Chẩn Đoán Hình Ảnh",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "bs004": {
+        "password_hash": "079b00dff9170c433fb0021f8c04b6b9$7a79152e5d83043718075e69107990af4af7a94652e615cd0cf3208fe271bf01",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "BS.CKI Phạm Thanh Hà",
+        "sdt": "0904567890",
+        "email": "ha.pham@phongkham.vn",
+        "ma_bs": "BS004",
+        "chuyen_khoa": "Nhi Khoa",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "bs005": {
+        "password_hash": "525d2264182fdbbaf069066a17cf818c$1294d36d8d642c80b2396755fb3ec2657b2f79f8ef481fb1af77ca7eb079bb63",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "ThS.BS Đỗ Văn Khoa",
+        "sdt": "0905678901",
+        "email": "khoa.do@phongkham.vn",
+        "ma_bs": "BS005",
+        "chuyen_khoa": "Tim Mạch",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "bs006": {
+        "password_hash": "773b9a5e5d056142bd60a673fd1b0c2a$a44d37e6dc1fd62779528d82fcb2989c07e7fa49e9238b01c0d5e0ab2e271dba",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "BS.CKI Nguyễn Thị Lan",
+        "sdt": "0906789012",
+        "email": "lan.nguyen@phongkham.vn",
+        "ma_bs": "BS006",
+        "chuyen_khoa": "Da Liễu",
+        "ngay_tao": "2026-10-27 18:43",
+        "nguoi_duyet": "hệ thống"
+    },
+    "vana": {
+        "password_hash": "9c7e697f10d08f7cd2223756f5f42f9a$71b377ee1da4cf8915fe7342e06d25fa118764c8d1593fcd3906d36393294b4c",
+        "role": "user",
+        "status": "approved",
+        "ho_ten": "Nguyễn Văn A",
+        "gioi_tinh": "Nam",
+        "sdt": "0598745612",
+        "email": "vana@gmail.com",
+        "ngay_tao": "2026-10-27 23:38"
+    }
+}
